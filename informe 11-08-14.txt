@@ -1,0 +1,12 @@
+11/08/14
+
+Emiliano:
+	*Terminar detalles de la interfaz
+	*Empezar a crear el archivo que integra la interfaz, la base de datos y la lógica.
+Agustin:
+	*Terminar la estructura de la base de datos.
+	*Modificar el archivo para el manejo de la base de datos.
+
+Tareas por realizar el 18/08/14
+	Tenemos pensado ya empezar a programar la logíca y que datos vamos a guardar con la base de datos, etc.
+
